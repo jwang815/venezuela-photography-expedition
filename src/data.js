@@ -4,7 +4,7 @@ module.exports = {
     "subtitle": "Day-by-day, hour-by-hour field plan",
     "dates": "Tuesday 23 June – Wednesday 8 July 2026 · 16 days",
     "crew": "For: Jason + 1 (photographers) · Kit incl. Canon R5 II",
-    "prepared": "Prepared June 2026 · v18 (Orinoco Delta → Canaima → Los Roques · Caracas hub)",
+    "prepared": "Prepared June 2026 · v19 (Orinoco Delta → Canaima → Los Roques · Waku booked)",
     "routeline": "Caracas → Orinoco Delta → Canaima & Angel Falls → Los Roques"
   },
   "summary": {
@@ -25,17 +25,22 @@ module.exports = {
       ],
       [
         "Orinoco Delta Lodge",
-        "Same Plan 2 Plus lodge as before, moved to 25–27 Jun (right after arrival). Updated quote pending from the lodge for the new dates.",
+        "Plan 2 Plus lodge, 25–27 Jun (right after arrival). Updated quote pending from the lodge for the new dates.",
         "IN — leg 1"
       ],
       [
-        "Angel Falls hammock night",
-        "Re-added: a night in hammocks facing the falls (29–30 Jun) — the dawn-from-camp frame you'd dropped — on top of the boat day and a helicopter.",
-        "IN — added"
+        "Waku Lodge (Canaima)",
+        "Booked at a special rate — $2,729 + 10% for 2, 4 nights, full board, all excursions except the Day-4 Angel Falls flight.",
+        "IN — booked"
       ],
       [
-        "Helicopter to Angel Falls",
-        "Premium aerial on the Canaima buffer day (1 Jul) — your aerial hero. Price still TBD; confirm with the operator.",
+        "Angel Falls hammock night",
+        "A night in hammocks facing the falls (29–30 Jun) — the dawn-from-camp frame — included in the Waku package, on top of the boat day.",
+        "IN — included"
+      ],
+      [
+        "Angel Falls flight (helicopter)",
+        "Day 4 / 1 Jul — your aerial hero. $500/pp, booked separately from the Waku package.",
         "IN — add-on"
       ],
       [
@@ -388,7 +393,7 @@ module.exports = {
       "shots": "Canaima Lagoon golden hour; behind El Sapo",
       "stay": "Waku Lodge (full board)",
       "eat": "Lodge buffet",
-      "note": "Reconfirm Waku in writing before the trip. Pack a small dry-bag overnight kit for tomorrow's hammock camp — headlamp, quick-dry layer, power bank, repellent."
+      "note": "Waku is booked (special rate) — still get written reconfirmation of the dates + the Angel Falls excursion. Pack a small dry-bag overnight kit for tomorrow's hammock camp — headlamp, quick-dry layer, power bank, repellent."
     },
     {
       "n": 7,
@@ -490,7 +495,7 @@ module.exports = {
         ],
         [
           "Morning",
-          "Helicopter flight to Angel Falls + Auyán-tepui — clearest morning air; your aerial hero. (Price TBD — confirm with the operator.)"
+          "Helicopter flight to Angel Falls + Auyán-tepui — clearest morning air; your aerial hero. $500/person, booked separately from the Waku package."
         ],
         [
           "If clouded",
@@ -512,7 +517,7 @@ module.exports = {
       "shots": "Aerial of Angel Falls + Auyán-tepui; lagoon",
       "stay": "Waku Lodge",
       "eat": "Lodge buffet",
-      "note": "Helicopter is a premium add-on — confirm the price and that it circles/lands as you expect. The buffer day doubles as cloud insurance for the heli and any reshoot."
+      "note": "The Angel Falls flight is $500/pp, separate from the Waku package. This buffer day doubles as cloud insurance — fly when the air is clearest."
     },
     {
       "n": 10,
@@ -890,22 +895,22 @@ module.exports = {
       "Caracas guide is ~$25/day (24 Jun + 3 Jul). On self-guided days Ridery and Yango take cards, but carry small USD as backup."
     ],
     [
-      "Tips + extras",
-      "Budget cash for the Delta lodge staff/guides, the Angel Falls boatmen + camp crew, your Caracas guide, and the helicopter (price TBD)."
+      "Big-ticket items",
+      "Waku Canaima package $2,729 + 10% for 2; Angel Falls flight $500/pp; Delta lodge (quote pending); Los Roques charter $250/pp + posada. Budget cash tips for lodge staff, guides and boatmen."
     ]
   ],
   "bookNow": [
     [
-      "Lock first",
-      "Canaima: the Conviasa Sun 28 Jun → Thu 2 Jul window + Waku Lodge (lagoon, Angel Falls boat + hammock camp, helicopter). The Sunday/Thursday flights are the spine — book and get written reconfirmation."
+      "Done",
+      "Waku Lodge / Canaima — booked at the special rate (28 Jun–2 Jul; lagoon + Angel Falls boat + hammock camp + transfers). Still get written reconfirmation of the dates + Angel Falls excursion."
+    ],
+    [
+      "Lock next",
+      "The Conviasa Sun 28 Jun → Thu 2 Jul flights (the Canaima spine); the Day-4 Angel Falls flight ($500/pp); the Orinoco Delta Lodge updated quote (and confirm the Sat 27 return routing)."
     ],
     [
       "Then",
-      "Orinoco Delta Lodge (Plan 2 Plus, 25–27 Jun) — get the updated quote and confirm the Sat 27 return routing; the Los Roques charter (hold the 4→7 Jul $250/pp quote) + a Gran Roque posada; confirm the helicopter price."
-    ],
-    [
-      "Caracas",
-      "Book the guide for 24 Jun + 3 Jul; reserve Cordero (it books out). Self-guided days run on Ridery + Yango."
+      "Los Roques charter (hold the 4→7 Jul $250/pp quote) + a Gran Roque posada; reserve the Caracas guide for 24 Jun + 3 Jul and Cordero (it books out)."
     ],
     [
       "Shortly before",
@@ -956,12 +961,12 @@ module.exports = {
       "The Sat 27 Jun Delta→Caracas leg needs confirming — Conviasa's Maturín route is Mon/Wed/Fri, so a Saturday return likely goes via Puerto Ordaz or a charter. The lodge's updated quote should specify it."
     ],
     [
-      "Delta price pending",
-      "The pricing table reflects the prior quote (#5022567, 29 Jun–1 Jul). The lodge is issuing an updated quote for the new 25–27 Jun dates — treat the numbers as indicative until it lands."
+      "Canaima cost",
+      "Waku is booked at a special rate ($2,729 + 10% for 2, 4 nights, all-inclusive bar the flight). The Day-4 Angel Falls flight is $500/pp on top. Park fee ~$40/pp cash."
     ],
     [
-      "Helicopter price",
-      "The Day 9 helicopter to Angel Falls is a premium add-on with price still TBD — confirm before counting on it; the boat day + hammock camp already cover the falls if it falls through."
+      "Delta price pending",
+      "The Delta table reflects the prior quote (#5022567, 29 Jun–1 Jul). The lodge is re-quoting for 25–27 Jun — treat as indicative until it lands."
     ],
     [
       "Buffer & departure",
@@ -1037,5 +1042,28 @@ module.exports = {
     ],
     "total": "$1,370 for 2 ($685 pp) — prior quote; awaiting updated",
     "note": "Indicative only — dates and the return routing will change with the new quote. Not included: meals in transit, drinks beyond water/coffee/breakfast juice (bar extra), corkage $10–30/bottle, satellite Wi-Fi $10/device."
+  },
+  "canaimaPricing": {
+    "title": "Canaima / Waku Lodge — pricing (booked)",
+    "intro": "Waku Lodge — DECIDED, at a special rate: 4 nights (28 Jun–2 Jul), 2 people, full board, with all Canaima excursions included (lagoon, Salto El Sapo, the multi-day Angel Falls boat + hammock camp, transfers) — everything except the Day-4 Angel Falls flight. The $2,729 is read as the party total for two.",
+    "rows": [
+      [
+        "Waku Lodge — 4 nights, 2 people, full board + all excursions (lagoon, Salto El Sapo, Angel Falls boat + hammock camp, transfers) · special rate",
+        "$1,364.50 pp",
+        "$2,729"
+      ],
+      [
+        "10% service fee",
+        "—",
+        "$272.90"
+      ],
+      [
+        "Angel Falls flight — helicopter, Day 4 (1 Jul); not in the lodge package",
+        "$500 pp",
+        "$1,000"
+      ]
+    ],
+    "total": "$4,001.90 for 2 ($2,000.95 pp)",
+    "note": "Park fee (~$40 pp, cash on arrival) and tips for guides/boatmen are extra. If the $2,729 special rate is per person rather than the party total, the lodge line doubles — flag it and I'll adjust."
   }
 };
