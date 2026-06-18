@@ -4,7 +4,7 @@ module.exports = {
     "subtitle": "Day-by-day, hour-by-hour field plan",
     "dates": "Tuesday 23 June – Wednesday 8 July 2026 · 16 days",
     "crew": "For: Jason + 1 (photographers) · Kit incl. Canon R5 II",
-    "prepared": "Prepared June 2026 · v19 (Orinoco Delta → Canaima → Los Roques · Waku booked)",
+    "prepared": "Prepared June 2026 · v20 (Orinoco Delta → Canaima → Los Roques · Waku + LRV flights booked)",
     "routeline": "Caracas → Orinoco Delta → Canaima & Angel Falls → Los Roques"
   },
   "summary": {
@@ -76,12 +76,12 @@ module.exports = {
     ],
     [
       "Los Roques",
-      "Private charter, round-trip — the Caribbean finale",
+      "Conviasa (V0) — booked & confirmed; the Caribbean finale",
       "Nights 4–6 Jul"
     ]
   ],
   "flights": {
-    "intro": "Every domestic leg hubs through Caracas. The Canaima days match Conviasa's verified booking calendar (15 Jun 2026); the Delta is the lodge's air package and Los Roques is a private charter quote. Venezuelan schedules slip — reconfirm every leg within a week of travel.",
+    "intro": "Every domestic leg hubs through Caracas. The Canaima days match Conviasa's verified booking calendar (15 Jun 2026); the Delta is the lodge's air package and Los Roques is booked on Conviasa (confirmed). Venezuelan schedules slip — reconfirm every leg within a week of travel.",
     "rows": [
       {
         "route": "Caracas (CCS) → Puerto Ordaz (PZO)",
@@ -113,17 +113,17 @@ module.exports = {
       },
       {
         "route": "Caracas (CCS) → Los Roques (LRV)",
-        "when": "Sat 4 Jul · 13:00",
-        "detail": "Private charter, round-trip via WhatsApp ($250/pp). Small aircraft — expect a strict ~10 kg luggage limit; confirm. ~35 min.",
+        "when": "Sat 4 Jul · 13:00–13:35",
+        "detail": "Conviasa V0 1154 (Y) — booked & confirmed (HK2), round-trip $250/pp via ALMI Destinos. ~35 min; small aircraft, expect a strict ~10 kg luggage limit.",
         "bag": "~10 kg (confirm)",
-        "conf": "Charter quote"
+        "conf": "Confirmed (HK2)"
       },
       {
         "route": "Los Roques (LRV) → Caracas (CCS)",
-        "when": "Tue 7 Jul · 11:15",
-        "detail": "Private charter return; lands ~noon into your final Caracas night.",
+        "when": "Tue 7 Jul · 11:15–11:50",
+        "detail": "Conviasa V0 1153 (Y) — confirmed (HK2). Lands Caracas ~11:50 into your final city night.",
         "bag": "~10 kg (confirm)",
-        "conf": "Charter quote"
+        "conf": "Confirmed (HK2)"
       },
       {
         "route": "International (reference)",
@@ -603,7 +603,7 @@ module.exports = {
       "base": "Gran Roque posada",
       "title": "Fly to Los Roques · first cay + lighthouse",
       "sun": "Sunrise ~06:08 · Sunset ~18:57",
-      "transit": "CCS→LRV · private charter 13:00 · ~35 min",
+      "transit": "CCS→LRV · Conviasa V0 1154 · 13:00–13:35 · ~35 min",
       "blocks": [
         [
           "Morning",
@@ -615,7 +615,7 @@ module.exports = {
         ],
         [
           "13:00",
-          "Charter CCS→Los Roques. Pay ~$50 cash park fee on arrival."
+          "Conviasa V0 1154 CCS→Los Roques (13:00–13:35). Pay ~$50 cash park fee on arrival."
         ],
         [
           "13:35",
@@ -637,7 +637,7 @@ module.exports = {
       "shots": "Lighthouse panorama; Francisquí",
       "stay": "Gran Roque posada (full board)",
       "eat": "Posada",
-      "note": "Afternoon arrival, so today is a half-day — the lighthouse sunset is the frame. Cash island: no ATMs, carry small USD. Posada still to be picked/booked."
+      "note": "Los Roques flights are booked (Conviasa, confirmed). Afternoon arrival, so today is a half-day — the lighthouse sunset is the frame. Cash island: no ATMs, carry small USD. Posada still to be picked/booked."
     },
     {
       "n": 13,
@@ -735,7 +735,7 @@ module.exports = {
       "base": "Caracas",
       "title": "Los Roques → Caracas (final evening)",
       "sun": "Sunrise ~06:08 / ~06:10",
-      "transit": "LRV→CCS · private charter 11:15 · ~35 min",
+      "transit": "LRV→CCS · Conviasa V0 1153 · 11:15–11:50 · ~35 min",
       "blocks": [
         [
           "06:00",
@@ -743,11 +743,11 @@ module.exports = {
         ],
         [
           "10:30",
-          "Transfer to the airstrip; check in for the 11:15 charter."
+          "Transfer to the airstrip; check in for the 11:15 Conviasa flight (V0 1153)."
         ],
         [
           "11:15",
-          "Charter Los Roques→Caracas; lands ~noon."
+          "Conviasa V0 1153 Los Roques→Caracas (11:15–11:50)."
         ],
         [
           "Afternoon",
@@ -896,13 +896,13 @@ module.exports = {
     ],
     [
       "Big-ticket items",
-      "Waku Canaima package $2,729 + 10% for 2; Angel Falls flight $500/pp; Delta lodge (quote pending); Los Roques charter $250/pp + posada. Budget cash tips for lodge staff, guides and boatmen."
+      "Waku Canaima package $2,729 + 10% for 2; Angel Falls flight $500/pp; Delta lodge (quote pending); Los Roques flights (Conviasa) $250/pp — booked; + a Gran Roque posada. Budget cash tips for lodge staff, guides and boatmen."
     ]
   ],
   "bookNow": [
     [
       "Done",
-      "Waku Lodge / Canaima — booked at the special rate (28 Jun–2 Jul; lagoon + Angel Falls boat + hammock camp + transfers). Still get written reconfirmation of the dates + Angel Falls excursion."
+      "Waku Lodge / Canaima booked (special rate, 28 Jun–2 Jul) and the Los Roques Conviasa flights booked & confirmed (V0 1154/1153, $250/pp). Get written reconfirmation of the Waku dates + Angel Falls excursion."
     ],
     [
       "Lock next",
@@ -910,7 +910,7 @@ module.exports = {
     ],
     [
       "Then",
-      "Los Roques charter (hold the 4→7 Jul $250/pp quote) + a Gran Roque posada; reserve the Caracas guide for 24 Jun + 3 Jul and Cordero (it books out)."
+      "Pick a Gran Roque posada; reserve the Caracas guide for 24 Jun + 3 Jul and Cordero (it books out)."
     ],
     [
       "Shortly before",
