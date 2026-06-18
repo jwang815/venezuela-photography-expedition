@@ -18,9 +18,9 @@ const fav=Buffer.from(favSvg).toString('base64');
 // hero journey map (5 stops)
 const heroNodes=[
   {x:120,y:80,c:COL.caracas,t:'Caracas',s:'23 Jun',up:true},
-  {x:380,y:130,c:COL.canaima,t:'Angel Falls',s:'25–28 Jun',up:false},
-  {x:630,y:80,c:COL.delta,t:'Orinoco Delta',s:'29 Jun–1 Jul',up:true},
-  {x:892,y:130,c:COL.losroques,t:'Los Roques',s:'4–8 Jul',up:false}];
+  {x:380,y:130,c:COL.delta,t:'Orinoco Delta',s:'25–27 Jun',up:false},
+  {x:630,y:80,c:COL.canaima,t:'Angel Falls',s:'28 Jun–2 Jul',up:true},
+  {x:892,y:130,c:COL.losroques,t:'Los Roques',s:'4–7 Jul',up:false}];
 const heroPath='M120,80 C235,52 270,158 380,130 C490,108 540,46 630,80 C742,108 792,158 892,130';
 const heroSvg=`<svg class="heromap" viewBox="0 0 1000 210" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
   <path d="${heroPath}" fill="none" stroke="rgba(255,255,255,.45)" stroke-width="2.5" stroke-dasharray="3 7" stroke-linecap="round"/>

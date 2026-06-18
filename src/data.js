@@ -4,44 +4,44 @@ module.exports = {
     "subtitle": "Day-by-day, hour-by-hour field plan",
     "dates": "Tuesday 23 June – Wednesday 8 July 2026 · 16 days",
     "crew": "For: Jason + 1 (photographers) · Kit incl. Canon R5 II",
-    "prepared": "Prepared June 2026 · v17 (depart 8 Jul 16:11 · Caracas highlights)",
-    "routeline": "Caracas → Canaima & Angel Falls → Orinoco Delta → Los Roques"
+    "prepared": "Prepared June 2026 · v18 (Orinoco Delta → Canaima → Los Roques · Caracas hub)",
+    "routeline": "Caracas → Orinoco Delta → Canaima & Angel Falls → Los Roques"
   },
   "summary": {
-    "headline": "A tighter, all-Conviasa plan: Caracas → Canaima → Orinoco Delta → Los Roques, with a relaxed Caracas stretch and a 9 July finish.",
+    "headline": "A Caracas-hub loop: Orinoco Delta, then Canaima with an Angel Falls hammock night + helicopter, then a Los Roques finale — private guide for two Caracas days, ride-share for the rest.",
     "body": [
-      "Mérida is out — you're short on time, the Mukumbarí cable car is reported closed (it's been stop-start all year), and it was the one leg needing a non-Conviasa carrier. Cutting it frees three days for a proper Caracas stretch and makes the whole trip a single airline.",
-      "Every flight is now Conviasa on a day verified in its booking calendar (15 Jun 2026): Canaima Thu 25 → Sun 28 Jun, Maturín/Delta Mon 29 → Wed 1 Jul, Los Roques (daily) Sat 4 → Wed 8 Jul.",
-      "You wind down with a three-night Caracas block (Ávila, El Hatillo, Chacao, the dining you'll have earned), then the Los Roques finale, flying home the afternoon of 8 July. No camping at Angel Falls."
+      "Caracas is the only domestic hub, so the trip threads through it four times and each leg is a clean out-and-back: Orinoco Delta Lodge (25–27 Jun), Canaima & Angel Falls (28 Jun–2 Jul), then Los Roques (4–7 Jul), flying home the afternoon of 8 Jul.",
+      "Canaima gets four nights: a lagoon day, an overnight in hammocks facing Angel Falls, a recovery day back at Waku, and a helicopter flight to the falls — so you get the river-level frame, the dawn-from-camp frame, and the aerial hero, with a weather buffer built in.",
+      "Caracas runs self-guided on the in-between days using the local ride apps Ridery and Yango, with your $25/day private guide booked for a full city day (24 Jun) and the El Ávila / Galipán day (3 Jul)."
     ]
   },
   "decision": {
-    "title": "What we considered for the third leg — and the adventure add-ons",
+    "title": "How this version is built",
     "rows": [
       [
-        "Orinoco Delta",
-        "Turnkey all-inclusive (one operator owns flight + road + boat + meals + excursions and adjusts for rain). Wettest leg, but rain comes in bursts with shootable mornings.",
-        "IN — third leg"
+        "Caracas as the hub",
+        "Every domestic leg routes through Caracas (CCS) — the only national hub — so each region is a clean round-trip with a buffer night in the city between legs.",
+        "IN — structure"
       ],
       [
-        "Morrocoy / Cuare",
-        "No flight (4-hr drive), drier on paper, flamingos + scarlet ibis at Cuare. But June is its rainy season too; rough seas can cancel the cay boats, and you self-assemble the logistics.",
-        "Fallback (no-fly)"
+        "Orinoco Delta Lodge",
+        "Same Plan 2 Plus lodge as before, moved to 25–27 Jun (right after arrival). Updated quote pending from the lodge for the new dates.",
+        "IN — leg 1"
       ],
       [
-        "Roraima / Gran Sabana",
-        "Roraima is viewable by air + 4WD without the trek, and it's the same rural-Bolívar risk you already accept for Canaima — but Santa Elena flights are a thin Mon/Fri single-carrier hop (charter is the reliable way), and it trades the smooth pace.",
-        "Optional add"
+        "Angel Falls hammock night",
+        "Re-added: a night in hammocks facing the falls (29–30 Jun) — the dawn-from-camp frame you'd dropped — on top of the boat day and a helicopter.",
+        "IN — added"
       ],
       [
-        "Mérida + Mukumbarí",
-        "CUT (your call) — short on time, the cable car is reported closed (stop-start all year, re-suspended 22 May), and it was the only leg requiring a non-Conviasa carrier. Days reallocated to Caracas.",
-        "Cut"
+        "Helicopter to Angel Falls",
+        "Premium aerial on the Canaima buffer day (1 Jul) — your aerial hero. Price still TBD; confirm with the operator.",
+        "IN — add-on"
       ],
       [
-        "Los Llanos (Hato El Cedral)",
-        "All of Apure state is Level-4 \"Do Not Travel\"; access is fly-plus-rough-drive; late June wet season disperses the signature wildlife.",
-        "Cut — safety + season"
+        "Guide vs. self-drive in Caracas",
+        "Private guide (~$25/day) for the full city day (24 Jun) and the Ávila/Galipán day (3 Jul); Ridery + Yango for the other Caracas days.",
+        "IN — mix"
       ]
     ]
   },
@@ -56,69 +56,69 @@ module.exports = {
   "route": [
     [
       "Caracas",
-      "Gateway + a relaxed city block + 2 buffer nights",
-      "Nights 23–24, 28 Jun, 1–3, 7 Jul"
+      "Arrival, the hub between every leg, and the farewell night — guide for 2 days, Ridery/Yango otherwise",
+      "Nights 23–24 Jun, 27 Jun, 2–3 Jul, 7 Jul"
+    ],
+    [
+      "Orinoco Delta (Lodge)",
+      "Plan 2 Plus lodge — Estelar in via Puerto Ordaz, then boat to the lodge",
+      "Nights 25–26 Jun"
     ],
     [
       "Canaima & Angel Falls (Bolívar)",
-      "Conviasa Thu→Sun — the only short window",
-      "Nights 25–27 Jun"
-    ],
-    [
-      "Orinoco Delta",
-      "QUOTED (#5022567 — not yet booked) — Estelar in via Puerto Ordaz, Conviasa out via Maturín",
-      "Nights 29–30 Jun"
+      "Conviasa Sun→Thu — lagoon, hammock camp at the falls, helicopter",
+      "Nights 28 Jun–1 Jul"
     ],
     [
       "Los Roques",
-      "Conviasa daily — Caribbean finale",
+      "Private charter, round-trip — the Caribbean finale",
       "Nights 4–6 Jul"
     ]
   ],
   "flights": {
-    "intro": "Verified 15 June 2026 directly in Conviasa's booking calendar — the operating days below are the dates the site actually lets you select. This version is all-Conviasa. Domestic schedules change with little notice — reconfirm exact times within a week of travel.",
+    "intro": "Every domestic leg hubs through Caracas. The Canaima days match Conviasa's verified booking calendar (15 Jun 2026); the Delta is the lodge's air package and Los Roques is a private charter quote. Venezuelan schedules slip — reconfirm every leg within a week of travel.",
     "rows": [
       {
+        "route": "Caracas (CCS) → Puerto Ordaz (PZO)",
+        "when": "Thu 25 Jun · AM",
+        "detail": "Delta inbound — Estelar, via the Orinoco Delta Lodge's air package. The lodge meets you at Puerto Ordaz and drives ~2.5 hr to Boca de Uracoa, then boats in.",
+        "bag": "15 + 5 kg",
+        "conf": "Lodge quote (pending)"
+      },
+      {
+        "route": "Delta → Caracas (CCS)",
+        "when": "Sat 27 Jun",
+        "detail": "Delta outbound — routing per the lodge's updated quote. Note: Conviasa's Maturín→Caracas runs Mon/Wed/Fri, so a Saturday return likely goes via Puerto Ordaz or a charter. Confirm with the lodge.",
+        "bag": "15 + 5 kg",
+        "conf": "Confirm routing"
+      },
+      {
         "route": "Caracas (CCS) → Canaima (CAJ)",
-        "when": "Thu 25 Jun",
-        "detail": "Conviasa — the ONLY operator. Verified days: Thursdays + Sundays in June, Thursdays-only in July. Embraer E190, ~1h05.",
+        "when": "Sun 28 Jun",
+        "detail": "Conviasa — the ONLY operator. Verified days: Thursdays + Sundays in June (Sun 28 ✓), Thursdays-only in July. Embraer E190, ~1h05.",
         "bag": "23 + 5 kg",
         "conf": "Verified (calendar)"
       },
       {
         "route": "Canaima (CAJ) → Caracas (CCS)",
-        "when": "Sun 28 Jun",
-        "detail": "Conviasa, Sunday. This late-June Thu→Sun window is the only sub-7-night way to do Canaima (July is Thursdays-only).",
+        "when": "Thu 2 Jul",
+        "detail": "Conviasa — Thursdays in July (Thu 2 ✓). Lands midday into Caracas for the city block.",
         "bag": "23 + 5 kg",
         "conf": "Verified (calendar)"
       },
       {
-        "route": "Caracas (CCS) → Puerto Ordaz (PZO)",
-        "when": "Mon 29 Jun · 07:00",
-        "detail": "ESTELAR — quoted via Orinoco Delta Lodge's \"Plan 2 Plus\" air package ($240/pp round trip). Outbound uses Puerto Ordaz; the lodge meets you and drives ~2.5 hr to Boca de Uracoa.",
-        "bag": "15 kg + 5 kg cabin",
-        "conf": "Quoted"
-      },
-      {
-        "route": "Maturín (MUN) → Caracas (CCS)",
-        "when": "Wed 1 Jul · 14:50",
-        "detail": "CONVIASA — verified Mon/Wed/Fri (Wed 1 Jul ✓). The lodge runs the boat+road back to Maturín for this return.",
-        "bag": "15 kg + 5 kg cabin",
-        "conf": "Quoted"
-      },
-      {
         "route": "Caracas (CCS) → Los Roques (LRV)",
-        "when": "Sat 4 Jul",
-        "detail": "Conviasa, verified DAILY (June + July). Cessna Grand Caravan 208 — STRICT 10 kg total luggage (enforced by a pop-up on the site). ~35 min.",
-        "bag": "STRICT 10 kg total",
-        "conf": "Verified (calendar)"
+        "when": "Sat 4 Jul · 13:00",
+        "detail": "Private charter, round-trip via WhatsApp ($250/pp). Small aircraft — expect a strict ~10 kg luggage limit; confirm. ~35 min.",
+        "bag": "~10 kg (confirm)",
+        "conf": "Charter quote"
       },
       {
         "route": "Los Roques (LRV) → Caracas (CCS)",
-        "when": "Wed 8 Jul",
-        "detail": "Conviasa, daily. Returns into a Caracas buffer night before departure.",
-        "bag": "STRICT 10 kg total",
-        "conf": "Verified (calendar)"
+        "when": "Tue 7 Jul · 11:15",
+        "detail": "Private charter return; lands ~noon into your final Caracas night.",
+        "bag": "~10 kg (confirm)",
+        "conf": "Charter quote"
       },
       {
         "route": "International (reference)",
@@ -128,7 +128,7 @@ module.exports = {
         "conf": "Verified · fragile"
       }
     ],
-    "cut": "All on real operating days. The only single-night Caracas turn is Sun 28 Jun (between Canaima and the Monday Delta flight); the rest of your Caracas time is in blocks. You return from Los Roques on Tue 7 Jul, with the afternoon of 8 Jul before your 16:11 flight — a comfortable cushion. Reconfirm Conviasa within a week."
+    "cut": "Caracas is the hub, so there's a buffer night after every leg (27 Jun, 2–3 Jul, 7 Jul). The one tight connection is the Sat 27 Jun Delta return into the Sun 28 Jun Canaima flight — confirm the Delta routing. Reconfirm all domestic legs within a week; Venezuelan schedules shift."
   },
   "weather": {
     "intro": "Driest → wettest for 23 Jun–10 Jul. The coast and islands sit in semi-arid sun; the interior/south is in rainy season. The key insight: across all of it, wet-season rain is mostly short bursts with bright gaps — and on the Delta leg the all-inclusive package absorbs the weather for you.",
@@ -162,7 +162,7 @@ module.exports = {
       "base": "Caracas",
       "title": "Arrive Caracas",
       "sun": "Sunrise ~06:10 · Sunset ~18:58",
-      "transit": "Land CCS 13:40 · private transfer up over the Ávila",
+      "transit": "Land CCS 13:40 · private transfer up to eastern Caracas",
       "blocks": [
         [
           "13:40",
@@ -177,22 +177,18 @@ module.exports = {
           "Check in (JW Marriott Las Mercedes / Renaissance La Castellana); charge batteries, format cards."
         ],
         [
-          "16:30",
-          "Settle in; quick gear + firmware check after the flight."
-        ],
-        [
           "17:45",
-          "Golden hour from 360 Roof Bar — open El Ávila / Waraira Repano views; an easy first-evening shoot, no mountain trip needed after the flight."
+          "Golden hour from 360 Roof Bar — open El Ávila / Waraira Repano views; an easy first-evening shoot."
         ],
         [
           "20:00",
-          "Stay for dinner at 360 Roof Bar, or Cordero nearby (Las Mercedes, #29 in LatAm's 50 Best) — reserve ahead."
+          "Dinner at 360 Roof Bar, or Cordero nearby (Las Mercedes, #29 in LatAm's 50 Best) — reserve ahead."
         ]
       ],
       "shots": "Caracas + El Ávila golden hour",
       "stay": "JW Marriott / Renaissance",
       "eat": "360 Roof Bar / Cordero",
-      "note": "Confirm the Thu 25 Canaima flight + Waku full-day Angel Falls + overflight. A recovery day follows tomorrow before the early Canaima start."
+      "note": "Your private guide joins tomorrow (24 Jun) for a full city day. Tonight is just the arrival transfer and an easy rooftop golden hour."
     },
     {
       "n": 2,
@@ -200,217 +196,61 @@ module.exports = {
       "date": "24 Jun",
       "region": "caracas",
       "base": "Caracas",
-      "title": "Caracas — recover + stage for Canaima",
+      "title": "Caracas — full day with your guide",
       "sun": "Sunrise ~06:10 · Sunset ~18:58",
-      "transit": "In the city",
+      "transit": "In the city · private guide (~$25/day)",
       "blocks": [
         [
           "Morning",
-          "Slow start; eastern-Caracas photography — Plaza Altamira, Chacao, El Hatillo — or the Warairarepano (Ávila) cable car for skyline-over-sea. Don't overload (early Canaima start tomorrow)."
+          "Guide pickup — eastern Caracas on foot + ride: Plaza Altamira, Chacao, the colonial streets of El Hatillo. Safe districts, easy street photography."
         ],
         [
-          "14:00",
-          "Repack to Canaima essentials (23 + 5 kg): rain shells, silica, headlamp, power banks, light hiking shoes."
+          "13:00",
+          "Venezuelan lunch in Las Mercedes / El Hatillo — let the guide pick the table."
         ],
         [
-          "16:00",
-          "Back up cards; charge everything; early dinner; early night before an 04:45 start."
+          "15:00",
+          "Las Mercedes & Chacao — galleries, design shops, a café stop."
+        ],
+        [
+          "17:45",
+          "Golden hour — 360 Roof Bar or a city viewpoint with the guide."
+        ],
+        [
+          "20:00",
+          "Dinner — Cordero or Alto; reserve ahead."
         ]
       ],
-      "shots": "Ávila, El Hatillo",
-      "stay": "Caracas hotel",
-      "eat": "City table",
-      "note": "No camping this trip — but pack power banks + dry bags for the long Angel Falls river day."
+      "shots": "Altamira, Chacao, El Hatillo; city golden hour",
+      "stay": "JW Marriott / Renaissance",
+      "eat": "Cordero / Alto",
+      "note": "Repack to the Delta kit tonight (~15 + 5 kg): light + quick-dry, dry bags, silica, headlamp, power banks, strong DEET. Early start tomorrow for the Delta flight."
     },
     {
       "n": 3,
       "dow": "Thu",
       "date": "25 Jun",
-      "region": "canaima",
-      "base": "Waku Lodge, Canaima",
-      "title": "Fly to Canaima · lagoon + Salto El Sapo",
-      "sun": "Sunrise ~05:58 · Sunset ~18:42",
-      "transit": "CCS→CAJ · Conviasa V0130 07:30→08:30 (Thu)",
-      "blocks": [
-        [
-          "04:45",
-          "Wake; 05:15 transfer to Maiquetía national terminal."
-        ],
-        [
-          "06:15",
-          "Check in Conviasa CCS→Canaima (Thursdays/Sundays only)."
-        ],
-        [
-          "08:30",
-          "Land Canaima; pay ~$40 cash park fee; transfer to Waku Lodge."
-        ],
-        [
-          "09:30",
-          "Lagoon orientation — tannin-red water, Hacha Falls."
-        ],
-        [
-          "11:00",
-          "Canoe + hike to Salto El Sapo (walk behind the curtain; dry bag)."
-        ],
-        [
-          "17:30",
-          "Golden hour over the lagoon + tepuis."
-        ],
-        [
-          "19:00",
-          "Dinner; confirm tomorrow's full-day Angel Falls departure."
-        ]
-      ],
-      "shots": "Canaima Lagoon golden hour; behind El Sapo",
-      "stay": "Waku Lodge (full board)",
-      "eat": "Lodge buffet",
-      "note": "Reconfirm Waku in writing before the trip — reservations can be unreliable."
-    },
-    {
-      "n": 4,
-      "dow": "Fri",
-      "date": "26 Jun",
-      "region": "canaima",
-      "base": "Waku Lodge, Canaima",
-      "title": "Angel Falls — full-day boat (no camp)",
-      "sun": "Sunrise ~05:58 · Sunset ~18:42",
-      "transit": "Curiara up the Carrao + Churún and back",
-      "blocks": [
-        [
-          "05:30",
-          "Early breakfast; sunrise on the lagoon while loading."
-        ],
-        [
-          "06:30",
-          "Curiara up the rivers (~4–5 hrs); wet season = full flow. Everything in dry bags."
-        ],
-        [
-          "11:30",
-          "Hike (~1–1.5 hrs, muddy) to the Mirador Laime facing the falls."
-        ],
-        [
-          "13:00",
-          "Shoot Angel Falls from the base — afternoon light, spray; lunch at the lookout."
-        ],
-        [
-          "15:00",
-          "Curiara back down."
-        ],
-        [
-          "18:30",
-          "Back at Waku; dry gear, recharge, back up cards."
-        ],
-        [
-          "19:30",
-          "Dinner; a real bed tonight."
-        ]
-      ],
-      "shots": "Angel Falls from Mirador Laime",
-      "stay": "Waku Lodge",
-      "eat": "Lodge buffet",
-      "note": "This long day replaces the overnight camp — you trade only the dawn-from-camp frame, recovered from the air tomorrow."
-    },
-    {
-      "n": 5,
-      "dow": "Sat",
-      "date": "27 Jun",
-      "region": "canaima",
-      "base": "Waku Lodge, Canaima",
-      "title": "Angel Falls overflight + weather buffer",
-      "sun": "Sunrise ~05:58 · Sunset ~18:42",
-      "transit": "Local — light plane",
-      "blocks": [
-        [
-          "06:00",
-          "Dawn lagoon shoot."
-        ],
-        [
-          "07:00",
-          "Light-plane overflight of Angel Falls + Auyán-tepui (~$120/person, ~35 min) — clearest morning air. Your aerial hero."
-        ],
-        [
-          "09:30",
-          "If clouded, retry later — the point of this buffer day."
-        ],
-        [
-          "11:00",
-          "Kavac canyon / Pemón community / Salto Yuri."
-        ],
-        [
-          "17:30",
-          "Final Canaima golden hour."
-        ],
-        [
-          "19:30",
-          "Dinner."
-        ]
-      ],
-      "shots": "Aerial of Angel Falls; lagoon",
-      "stay": "Waku Lodge",
-      "eat": "Lodge buffet",
-      "note": "Buffer day kept for weather, as you asked."
-    },
-    {
-      "n": 6,
-      "dow": "Sun",
-      "date": "28 Jun",
-      "region": "caracas",
-      "base": "Caracas",
-      "title": "Canaima → Caracas",
-      "sun": "Sunrise ~05:58 / ~06:10",
-      "transit": "CAJ→CCS · Conviasa (Sun) ~09:20→10:20",
-      "blocks": [
-        [
-          "06:00",
-          "Last dawn lagoon shoot."
-        ],
-        [
-          "09:00",
-          "Transfer to airstrip; Conviasa Canaima→Caracas (Sunday)."
-        ],
-        [
-          "10:20",
-          "Land Caracas; city hotel; back up the Canaima take, service gear."
-        ],
-        [
-          "15:00",
-          "Optional Ávila/Galipán; rest."
-        ],
-        [
-          "20:00",
-          "Dinner — Alto / Moreno / Maute Grill."
-        ]
-      ],
-      "shots": "Ávila (optional)",
-      "stay": "Caracas hotel",
-      "eat": "Alto / Moreno",
-      "note": "A connecting night — Maturín flies Mon, so the Delta starts tomorrow."
-    },
-    {
-      "n": 7,
-      "dow": "Mon",
-      "date": "29 Jun",
       "region": "delta",
-      "base": "Orinoco Delta lodge",
-      "title": "Fly to the Orinoco Delta (Plan 2 · Day 1)",
+      "base": "Orinoco Delta Lodge",
+      "title": "Fly to the Orinoco Delta (Lodge · Day 1)",
       "sun": "Sunrise ~05:55 · Sunset ~18:40 (Delta)",
-      "transit": "CCS→Puerto Ordaz (Estelar 07:00) · road ~2.5 hr · boat — all lodge-handled",
+      "transit": "CCS→Puerto Ordaz (Estelar, AM) · road ~2.5 hr · boat — lodge-handled",
       "blocks": [
         [
-          "07:00",
-          "Estelar Maiquetía (CCS) → Puerto Ordaz (PZO)."
+          "AM",
+          "Early transfer to Maiquetía; Estelar CCS→Puerto Ordaz (lodge air package)."
         ],
         [
-          "08:00",
-          "Arrive Puerto Ordaz; lodge drives to Boca de Uracoa (~2.5 hr). Breakfast stop en route (not included)."
+          "—",
+          "Arrive Puerto Ordaz; the lodge drives to Boca de Uracoa (~2.5 hr). Breakfast stop en route (not included)."
         ],
         [
-          "12:00",
+          "Midday",
           "Reception at Boca de Uracoa; boat ~50 min into the delta to the lodge."
         ],
         [
           "13:30",
-          "Check in (River Bungalow on the water) + lunch; afternoon free — kayak or swim in the river."
+          "Check in (River Bungalow on the water) + lunch; afternoon free — kayak or swim."
         ],
         [
           "16:00",
@@ -422,43 +262,43 @@ module.exports = {
         ],
         [
           "19:30",
-          "Dinner under the stars on the riverbank; riverside bar."
+          "Dinner on the riverbank; riverside bar."
         ]
       ],
       "shots": "Caño Manamo sunset; freshwater dolphins; palafitos",
-      "stay": "Orinoco Delta Lodge — River Bungalow (palafito, on the water; eco, NO A/C, big windows)",
+      "stay": "Orinoco Delta Lodge — River Bungalow (palafito, on the water; eco, no A/C)",
       "eat": "Lodge — all meals included",
-      "note": "QUOTED (not yet booked) — Orinoco Delta Lodge Quote #5022567 (Plan 2 Plus, 2 nights, 2 adults, English guide; $1,370 total incl. $240/pp air). Luggage limit 15 kg + 5 kg cabin from Caracas. No mobile coverage (satellite wifi $10/device, 8am–10pm). Bring small USD cash for the Warao handicrafts + bar. Reconfirm via WhatsApp +58 412 855 6225."
+      "note": "Orinoco Delta Lodge, Plan 2 Plus, 2 nights (25–27 Jun). Updated quote pending (the old #5022567 was for 29 Jun–1 Jul). Confirm the air routing — including that the Sat 27 return works. Luggage ~15 + 5 kg. No mobile coverage (satellite Wi-Fi $10/device). Small USD cash for Warao crafts + bar."
     },
     {
-      "n": 8,
-      "dow": "Tue",
-      "date": "30 Jun",
+      "n": 4,
+      "dow": "Fri",
+      "date": "26 Jun",
       "region": "delta",
-      "base": "Orinoco Delta lodge",
-      "title": "Plan 2 · Day 2 — Morichal Largo full-day",
+      "base": "Orinoco Delta Lodge",
+      "title": "Lodge Day 2 — Morichal Largo full-day",
       "sun": "Sunrise ~05:55 · Sunset ~18:40",
       "transit": "Full-day guided excursion",
       "blocks": [
+        [
+          "First light",
+          "Paddle out by kayak/canoe (free) — calm channels + birds at dawn."
+        ],
         [
           "08:00",
           "Breakfast."
         ],
         [
           "09:00",
-          "Visit the Warao indigenous crafts bazaar."
+          "Warao indigenous crafts bazaar."
         ],
         [
           "10:00",
-          "Full-day excursion up the Morichal Largo River — wild flora & fauna, jungle walk (optional; boots provided), visit to a Warao community."
+          "Full-day up the Morichal Largo River — wild flora & fauna, jungle walk (boots provided), a Warao community."
         ],
         [
           "14:00",
           "Picnic lunch in the jungle (grilled fish); swim at a freshwater beach."
-        ],
-        [
-          "16:00",
-          "Return to the lodge — kayak or relax."
         ],
         [
           "17:30",
@@ -472,55 +312,207 @@ module.exports = {
       "shots": "Morichal Largo wildlife; Warao community; Caño Manamo sunset + dolphins",
       "stay": "Orinoco Delta Lodge",
       "eat": "Lodge — all meals",
-      "note": "Photographer tip: kayaks/canoes are free all day, so paddle out at first light for the calm channels + birds — the structured highlights are the Morichal Largo day and the two Caño Manamo sunsets. Small USD cash for the Warao crafts (no card machines in the jungle)."
+      "note": "Kayaks/canoes are free all day — paddle at first light for the calm channels + birds. Small USD cash for the Warao crafts (no card machines in the jungle)."
+    },
+    {
+      "n": 5,
+      "dow": "Sat",
+      "date": "27 Jun",
+      "region": "caracas",
+      "base": "Caracas",
+      "title": "Delta → Caracas",
+      "sun": "Sunrise ~05:55 / ~06:10",
+      "transit": "Boat + road out · fly Delta→Caracas (routing per lodge quote)",
+      "blocks": [
+        [
+          "First light",
+          "Optional sunrise kayak/canoe (free) — last calm channels."
+        ],
+        [
+          "08:00",
+          "Breakfast; check out."
+        ],
+        [
+          "Morning",
+          "Boat to Boca de Uracoa; lodge transfer out; fly to Caracas (routing per the lodge's updated quote)."
+        ],
+        [
+          "Afternoon",
+          "Land Caracas; transfer to the city hotel; back up the Delta take, service + dry gear."
+        ],
+        [
+          "20:00",
+          "Relaxed dinner in Las Mercedes (Ridery / Yango to get around)."
+        ]
+      ],
+      "shots": "Travel day; calm-channel dawn",
+      "stay": "Caracas hotel",
+      "eat": "Las Mercedes table",
+      "note": "Connector night — tomorrow's Canaima flight is the Sunday Conviasa (the last June Sunday). Repack to the Canaima kit (23 + 5 kg): rain shell, dry bags, headlamp, power banks, light hiking shoes, plus a layer for the hammock night."
+    },
+    {
+      "n": 6,
+      "dow": "Sun",
+      "date": "28 Jun",
+      "region": "canaima",
+      "base": "Waku Lodge, Canaima",
+      "title": "Fly to Canaima · lagoon + Salto El Sapo",
+      "sun": "Sunrise ~05:58 · Sunset ~18:42",
+      "transit": "CCS→CAJ · Conviasa (Sun) ~1h05",
+      "blocks": [
+        [
+          "Early",
+          "Transfer to Maiquetía national terminal; check in Conviasa CCS→Canaima (Sundays in June)."
+        ],
+        [
+          "Midday",
+          "Land Canaima; pay ~$40 cash park fee; transfer to Waku Lodge."
+        ],
+        [
+          "Afternoon",
+          "Lagoon orientation — tannin-red water, Hacha & Ucaima falls."
+        ],
+        [
+          "15:00",
+          "Canoe + hike to Salto El Sapo (walk behind the curtain; dry bag)."
+        ],
+        [
+          "17:30",
+          "Golden hour over the lagoon + tepuis."
+        ],
+        [
+          "19:00",
+          "Dinner; brief tomorrow's Angel Falls boat + hammock camp."
+        ]
+      ],
+      "shots": "Canaima Lagoon golden hour; behind El Sapo",
+      "stay": "Waku Lodge (full board)",
+      "eat": "Lodge buffet",
+      "note": "Reconfirm Waku in writing before the trip. Pack a small dry-bag overnight kit for tomorrow's hammock camp — headlamp, quick-dry layer, power bank, repellent."
+    },
+    {
+      "n": 7,
+      "dow": "Mon",
+      "date": "29 Jun",
+      "region": "canaima",
+      "base": "Angel Falls camp (hammocks)",
+      "title": "Angel Falls — boat up + hammock camp",
+      "sun": "Sunrise ~05:58 · Sunset ~18:42",
+      "transit": "Curiara up the Carrao + Churún to the camp",
+      "blocks": [
+        [
+          "05:30",
+          "Early breakfast; sunrise on the lagoon while loading the curiara."
+        ],
+        [
+          "06:30",
+          "Curiara up the rivers (~4–5 hrs) — wet season = full flow. Everything in dry bags."
+        ],
+        [
+          "11:30",
+          "Hike (~1–1.5 hrs, muddy) to Mirador Laime facing the falls."
+        ],
+        [
+          "13:00",
+          "Shoot Angel Falls from the base — spray, possible rainbow; lunch at the lookout."
+        ],
+        [
+          "Afternoon",
+          "Settle into the camp facing the falls — hammocks + mosquito nets."
+        ],
+        [
+          "17:30",
+          "Golden hour on the falls from camp."
+        ],
+        [
+          "Night",
+          "Long-exposure / star frames if it clears; sleep to the sound of the falls."
+        ]
+      ],
+      "shots": "Angel Falls from Mirador Laime; dusk + night from camp",
+      "stay": "Angel Falls camp — hammocks (basic, mosquito nets)",
+      "eat": "Camp meals (included with the excursion)",
+      "note": "The dawn-from-camp frame is back this version. Dry-bag kit only — everything gets wet on the river. Headlamp, repellent, a warm-ish layer for the night, silica for the camera."
+    },
+    {
+      "n": 8,
+      "dow": "Tue",
+      "date": "30 Jun",
+      "region": "canaima",
+      "base": "Waku Lodge, Canaima",
+      "title": "Dawn at the falls · return to Waku",
+      "sun": "Sunrise ~05:58 · Sunset ~18:42",
+      "transit": "Curiara back down to Canaima",
+      "blocks": [
+        [
+          "05:45",
+          "Dawn shoot — Angel Falls from camp in first light (the reason to camp)."
+        ],
+        [
+          "08:00",
+          "Breakfast at camp; pack the curiara."
+        ],
+        [
+          "09:00",
+          "Curiara back down the rivers (~4 hrs)."
+        ],
+        [
+          "Afternoon",
+          "Back at Waku; hot shower, dry + service gear, back up cards, rest."
+        ],
+        [
+          "17:30",
+          "Easy lagoon golden hour."
+        ],
+        [
+          "19:30",
+          "Dinner; brief tomorrow's helicopter."
+        ]
+      ],
+      "shots": "Angel Falls dawn; lagoon",
+      "stay": "Waku Lodge",
+      "eat": "Lodge buffet",
+      "note": "A recovery afternoon at Waku after the camp. Charge everything tonight for the helicopter flight."
     },
     {
       "n": 9,
       "dow": "Wed",
       "date": "1 Jul",
-      "region": "caracas",
-      "base": "Caracas",
-      "title": "Plan 2 · Day 3 — Delta → Caracas (Conviasa from Maturín)",
-      "sun": "Sunrise ~05:55 / ~06:10",
-      "transit": "Boat + road to Maturín · MUN→CCS Conviasa 14:50",
+      "region": "canaima",
+      "base": "Waku Lodge, Canaima",
+      "title": "Helicopter to Angel Falls + weather buffer",
+      "sun": "Sunrise ~05:58 · Sunset ~18:42",
+      "transit": "Local — helicopter",
       "blocks": [
         [
           "06:00",
-          "Optional sunrise kayak/canoe (free) — the calm channels before departure."
+          "Dawn lagoon shoot."
         ],
         [
-          "08:00",
-          "Breakfast."
+          "Morning",
+          "Helicopter flight to Angel Falls + Auyán-tepui — clearest morning air; your aerial hero. (Price TBD — confirm with the operator.)"
         ],
         [
-          "09:00",
-          "Check out; boat to Boca de Uracoa."
+          "If clouded",
+          "Hold for a later window — this buffer day exists for exactly that."
         ],
         [
-          "10:00",
-          "Arrive Boca de Uracoa; lodge transfer to Maturín."
+          "Midday",
+          "Kavac canyon / Pemón community / Salto Yuri if the heli wraps early."
         ],
         [
-          "12:30",
-          "Arrive Maturín airport; lunch."
+          "17:30",
+          "Final Canaima golden hour over the lagoon."
         ],
         [
-          "14:50",
-          "Conviasa Maturín (MUN) → Caracas (CCS)."
-        ],
-        [
-          "16:00",
-          "Land Caracas; transfer to the city hotel; back up the Delta take."
-        ],
-        [
-          "20:00",
-          "Relaxed dinner — start of the Caracas block."
+          "19:30",
+          "Dinner; repack to leave tomorrow."
         ]
       ],
-      "shots": "Travel day",
-      "stay": "Caracas hotel",
-      "eat": "Las Mercedes table",
-      "note": "The lodge's standard Day 3 has a 9 AM canoe ride, but your 09:00 checkout (to make the 14:50 Maturín→Caracas flight) means do that paddle at sunrise instead — kayaks are free. Order of activities can shift with weather (lodge note)."
+      "shots": "Aerial of Angel Falls + Auyán-tepui; lagoon",
+      "stay": "Waku Lodge",
+      "eat": "Lodge buffet",
+      "note": "Helicopter is a premium add-on — confirm the price and that it circles/lands as you expect. The buffer day doubles as cloud insurance for the heli and any reshoot."
     },
     {
       "n": 10,
@@ -528,39 +520,35 @@ module.exports = {
       "date": "2 Jul",
       "region": "caracas",
       "base": "Caracas",
-      "title": "Caracas at leisure — El Ávila",
-      "sun": "Sunrise ~06:10 · Sunset ~18:58",
-      "transit": "In the city",
+      "title": "Canaima → Caracas",
+      "sun": "Sunrise ~05:58 / ~06:10",
+      "transit": "CAJ→CCS · Conviasa (Thu) · lands midday",
       "blocks": [
         [
-          "07:30",
-          "Warairarepano (El Ávila) cable car at opening — skyline-over-sea before the cloud builds."
+          "06:00",
+          "Last dawn lagoon shoot."
         ],
         [
-          "10:30",
-          "Galipán mountain village; coffee, gardens, ridge views."
+          "Morning",
+          "Transfer to the airstrip; Conviasa Canaima→Caracas (Thursday)."
         ],
         [
-          "13:00",
-          "Long lunch back in the city."
+          "Midday",
+          "Land Caracas; check into the city hotel; back up the Canaima + camp take."
         ],
         [
-          "16:00",
-          "Rest / edit the Canaima + Delta take."
-        ],
-        [
-          "17:45",
-          "Golden hour over the city."
+          "Afternoon",
+          "Rest / edit; self-managed — use Ridery or Yango around the east side."
         ],
         [
           "20:00",
-          "Dinner at Alto or Moreno."
+          "Dinner — Alto / Moreno / Maute Grill (book ahead)."
         ]
       ],
-      "shots": "Ávila skyline, Galipán",
+      "shots": "Travel day",
       "stay": "Caracas hotel",
-      "eat": "Alto / Moreno",
-      "note": "The first of three unhurried city days you freed by cutting Mérida."
+      "eat": "Alto / Moreno / Maute Grill",
+      "note": "Self-guided today: Ridery and Yango both work in Caracas (cash or card). Stay in the eastern districts; hotel-arranged transfer for anything after dark."
     },
     {
       "n": 11,
@@ -568,35 +556,39 @@ module.exports = {
       "date": "3 Jul",
       "region": "caracas",
       "base": "Caracas",
-      "title": "Caracas — culture + cuisine",
+      "title": "Caracas — El Ávila & Galipán with your guide",
       "sun": "Sunrise ~06:10 · Sunset ~18:58",
-      "transit": "In the city",
+      "transit": "In the city · private guide (~$25/day)",
       "blocks": [
         [
-          "Morning",
-          "El Hatillo colonial town — streets, crafts, easy photography in a safe eastern suburb."
+          "07:30",
+          "Guide pickup; Warairarepano (El Ávila) cable car at opening — skyline-over-sea before the cloud builds."
+        ],
+        [
+          "10:30",
+          "Galipán mountain village — coffee, gardens, ridge views over the Caribbean."
         ],
         [
           "13:00",
-          "Lunch + a café stop; galleries / design shops in Las Mercedes & Chacao."
+          "Long lunch back in the city."
         ],
         [
           "16:00",
-          "Market + architecture photography, or a spa hour."
+          "El Hatillo or Las Mercedes with the guide — market + architecture."
         ],
         [
           "17:45",
-          "Golden hour; blue hour."
+          "Golden hour; blue hour over the city."
         ],
         [
           "20:00",
-          "A top table you've not tried — Cordero encore or Maute Grill."
+          "Dinner — a top table you've not tried (Cordero encore / Maute Grill)."
         ]
       ],
-      "shots": "El Hatillo, markets, architecture",
+      "shots": "Ávila skyline, Galipán, El Hatillo",
       "stay": "Caracas hotel",
       "eat": "Cordero / Maute Grill",
-      "note": "Repack tonight to the Los Roques 10 kg kit; leave the rest at the hotel."
+      "note": "This is the Ávila day you wanted the guide for — go up early, Warairarepano clouds over by late morning. Repack tonight to the Los Roques kit (~10 kg); leave the rest at the hotel."
     },
     {
       "n": 12,
@@ -606,22 +598,26 @@ module.exports = {
       "base": "Gran Roque posada",
       "title": "Fly to Los Roques · first cay + lighthouse",
       "sun": "Sunrise ~06:08 · Sunset ~18:57",
-      "transit": "CCS→LRV · Conviasa (daily) ~35 min",
+      "transit": "CCS→LRV · private charter 13:00 · ~35 min",
       "blocks": [
         [
-          "06:45",
-          "Maiquetía general-aviation terminal; check in (STRICT 10 kg)."
+          "Morning",
+          "Relaxed Caracas morning (Ridery / Yango); coffee, last city frames."
         ],
         [
-          "08:00",
-          "Conviasa CCS→Los Roques (daily). Pay ~$50 cash park fee."
+          "11:30",
+          "To the Maiquetía general-aviation terminal; check in (expect a strict ~10 kg limit)."
         ],
         [
-          "08:35",
-          "Land Gran Roque; walk to the posada (sand streets, no cars)."
+          "13:00",
+          "Charter CCS→Los Roques. Pay ~$50 cash park fee on arrival."
         ],
         [
-          "10:00",
+          "13:35",
+          "Land Gran Roque; walk to the posada (sand streets, no cars); drop bags."
+        ],
+        [
+          "15:00",
           "First cay — Francisquí (~15 min): turquoise channels, snorkel."
         ],
         [
@@ -636,7 +632,7 @@ module.exports = {
       "shots": "Lighthouse panorama; Francisquí",
       "stay": "Gran Roque posada (full board)",
       "eat": "Posada",
-      "note": "Cash island — no ATMs; carry small USD."
+      "note": "Afternoon arrival, so today is a half-day — the lighthouse sunset is the frame. Cash island: no ATMs, carry small USD. Posada still to be picked/booked."
     },
     {
       "n": 13,
@@ -680,7 +676,7 @@ module.exports = {
       "shots": "Cayo de Agua sandbar",
       "stay": "Gran Roque posada",
       "eat": "Cay picnic + posada",
-      "note": "The signature frame — give it the morning light."
+      "note": "Your first full Los Roques day — give the signature sandbar the morning light."
     },
     {
       "n": 14,
@@ -692,6 +688,10 @@ module.exports = {
       "sun": "Sunrise ~06:08 · Sunset ~18:57",
       "transit": "Boat day across the calmer cays",
       "blocks": [
+        [
+          "06:00",
+          "Sunrise on Gran Roque."
+        ],
         [
           "08:30",
           "Boat to Madrisquí (wide beach), Crasquí (off-the-beaten-path), Noronquí (quiet, birds)."
@@ -720,7 +720,7 @@ module.exports = {
       "shots": "Empty cays, reef, minimalist water",
       "stay": "Gran Roque posada",
       "eat": "Cay picnic + posada",
-      "note": "Your last full Los Roques day — repeat a favourite cay for better light, or run south to Dos Mosquises. Back to Caracas tomorrow."
+      "note": "Last full island day — repeat Cayo de Agua for better light or run south to Dos Mosquises. You fly back to Caracas mid-morning tomorrow."
     },
     {
       "n": 15,
@@ -729,38 +729,38 @@ module.exports = {
       "region": "caracas",
       "base": "Caracas",
       "title": "Los Roques → Caracas (final evening)",
-      "sun": "Sunrise ~06:10 · Sunset ~18:58",
-      "transit": "LRV→CCS · Conviasa (daily) ~35 min",
+      "sun": "Sunrise ~06:08 / ~06:10",
+      "transit": "LRV→CCS · private charter 11:15 · ~35 min",
       "blocks": [
         [
           "06:00",
-          "Last sunrise on the cays."
+          "Last sunrise on the cays; a quick early beach frame."
         ],
         [
-          "09:00",
-          "Transfer to the airstrip; Conviasa Los Roques→Caracas (daily)."
+          "10:30",
+          "Transfer to the airstrip; check in for the 11:15 charter."
         ],
         [
-          "10:00",
-          "Land Caracas; retrieve stored luggage; check into a city hotel (La Castellana / Las Mercedes)."
+          "11:15",
+          "Charter Los Roques→Caracas; lands ~noon."
         ],
         [
-          "13:00",
-          "Final culling + backup; gear pack-out."
+          "Afternoon",
+          "Retrieve stored luggage; check into a city hotel (La Castellana / Las Mercedes); final culling + backup, gear pack-out."
         ],
         [
           "17:30",
-          "Last Caracas golden hour — 360 Roof Bar rooftop, or up to Galipán."
+          "Last Caracas golden hour — 360 Roof Bar rooftop."
         ],
         [
           "20:00",
-          "Farewell dinner — a top table you've not tried (Alto / Moreno / Maute Grill)."
+          "Farewell dinner — Alto / Moreno / Maute Grill."
         ]
       ],
-      "shots": "Final Caracas / rooftop light",
+      "shots": "Final cay sunrise; Caracas rooftop",
       "stay": "Caracas hotel",
       "eat": "Farewell dinner",
-      "note": "One relaxed Caracas night — your afternoon flight tomorrow means no pre-dawn rush and no airport hotel needed."
+      "note": "Relaxed final night — tomorrow's flight is mid-afternoon, so no pre-dawn rush and no airport hotel. Ridery / Yango around the city."
     },
     {
       "n": 16,
@@ -792,28 +792,33 @@ module.exports = {
       "shots": "Last Caracas morning",
       "stay": "—",
       "eat": "—",
-      "note": "An afternoon departure gives you a relaxed final morning in the city."
+      "note": "An afternoon departure gives a relaxed final morning. Use a pre-arranged private transfer to Maiquetía — not a street taxi."
     }
   ],
   "heroShots": [
     [
+      "Angel Falls from camp at dawn",
+      "Day 8",
+      "First light on the falls from the hammock camp — the frame the overnight buys you."
+    ],
+    [
       "Angel Falls aerial",
-      "Day 5",
-      "Light-plane overflight — your aerial hero, covering for not camping."
+      "Day 9",
+      "Helicopter flight over the falls + Auyán-tepui — your aerial hero."
     ],
     [
       "Angel Falls from Mirador Laime",
-      "Day 4",
-      "Ground-level base view on the full-day boat — mist, spray, possible rainbow."
+      "Day 7",
+      "Ground-level base view on the boat day — mist, spray, possible rainbow."
     ],
     [
       "Canaima Lagoon golden hour",
-      "Day 3",
+      "Day 6",
       "Tannin-red water, multiple falls, tepui backdrop."
     ],
     [
       "Orinoco at sunrise",
-      "Day 8",
+      "Day 4",
       "Mist on the channels, river dolphins, scarlet ibis, Warao palafitos."
     ],
     [
@@ -823,8 +828,8 @@ module.exports = {
     ],
     [
       "Caracas / El Ávila",
-      "Days 2, 10",
-      "City-meets-mountain-meets-Caribbean light; best from Galipán, with a slow block to wait for it."
+      "Days 2, 11",
+      "City-meets-mountain-meets-Caribbean light; best from Galipán with the guide."
     ]
   ],
   "health": [
@@ -859,16 +864,16 @@ module.exports = {
       "\"Bolívar state rural areas\" carries a Level-4 \"Do Not Travel\" flag. Canaima/Angel Falls is nonetheless a long-running, air-accessed, guide-gated tourism enclave — travel only with a vetted operator."
     ],
     [
-      "Mérida vs the rest",
-      "Mérida town is \"Caution,\" not a Do-Not-Travel zone — a reasonable (if awkward) add. All of Apure (Los Llanos) is Level 4."
+      "Getting around Caracas",
+      "On self-guided days use Ridery or Yango (app-based, tracked, cash or card) rather than street taxis; stay in the eastern districts; avoid the airport road and intercity roads after dark. Enroll in STEP."
     ],
     [
       "In Caracas",
-      "Stay in eastern safe zones (Altamira, La Castellana, Las Mercedes, Chacao, El Hatillo). Hotel-arranged transfers only; no unregulated taxis; avoid the airport road and intercity roads after dark. Enroll in STEP."
+      "Base in the eastern safe zones (Altamira, La Castellana, Las Mercedes, Chacao, El Hatillo). Hotel-arranged transfers for the airport and after dark."
     ],
     [
       "Drones",
-      "Legal self-flying isn't realistically obtainable for a short trip. Register any DJI via SIRPA before arrival or risk airport confiscation. Use the Canaima overflight for aerials."
+      "Legal self-flying isn't realistically obtainable for a short trip. Register any DJI via SIRPA before arrival or risk airport confiscation. Use the Canaima helicopter for aerials."
     ]
   ],
   "money": [
@@ -881,22 +886,30 @@ module.exports = {
       "~$40 Canaima + ~$50 Los Roques per person, on arrival. Confirm current amounts with operators."
     ],
     [
+      "Guide + ride apps",
+      "Caracas guide is ~$25/day (24 Jun + 3 Jul). On self-guided days Ridery and Yango take cards, but carry small USD as backup."
+    ],
+    [
       "Tips + extras",
-      "Budget cash for the Delta lodge staff/guides, boatmen, the full-day Angel Falls excursion, and the overflight (~$120/person)."
+      "Budget cash for the Delta lodge staff/guides, the Angel Falls boatmen + camp crew, your Caracas guide, and the helicopter (price TBD)."
     ]
   ],
   "bookNow": [
     [
       "Lock first",
-      "Canaima: the Conviasa Thu 25 → Sun 28 Jun window + Waku Lodge (full-day Angel Falls + overflight). This twice-weekly flight is the spine — book first, get written reconfirmation."
+      "Canaima: the Conviasa Sun 28 Jun → Thu 2 Jul window + Waku Lodge (lagoon, Angel Falls boat + hammock camp, helicopter). The Sunday/Thursday flights are the spine — book and get written reconfirmation."
     ],
     [
       "Then",
-      "The Orinoco Delta lodge package (it books the Conviasa Mon/Wed/Fri Maturín flight + all transfers); Los Roques (Conviasa daily) + posada; the international MIA–CCS; the eVisa; the yellow-fever shot."
+      "Orinoco Delta Lodge (Plan 2 Plus, 25–27 Jun) — get the updated quote and confirm the Sat 27 return routing; the Los Roques charter (hold the 4→7 Jul $250/pp quote) + a Gran Roque posada; confirm the helicopter price."
     ],
     [
-      "Arrange on the ground / shortly before",
-      "Caracas transfers + dining (Cordero books out); Los Roques boat excursions (via posada). Reconfirm all domestic flights within a week."
+      "Caracas",
+      "Book the guide for 24 Jun + 3 Jul; reserve Cordero (it books out). Self-guided days run on Ridery + Yango."
+    ],
+    [
+      "Shortly before",
+      "Reconfirm every domestic leg within a week — Venezuelan schedules slip."
     ]
   ],
   "packing": [
@@ -906,45 +919,53 @@ module.exports = {
     ],
     [
       "Wet protection",
-      "Rain covers, dry bags and silica gel — essential for the Delta humidity, Salto El Sapo, and the long Angel Falls river day. A small rechargeable fan helps dry gear at the Delta lodge."
+      "Rain covers, dry bags and silica gel — essential for the Delta humidity, Salto El Sapo, the Angel Falls river day and the hammock night. A small rechargeable fan helps dry gear."
+    ],
+    [
+      "Angel Falls hammock night",
+      "A dry-bag overnight kit: headlamp, a quick-dry change, a light warm layer, strong repellent, power bank. The camp has hammocks + mosquito nets; everything gets damp — pack light and waterproof."
     ],
     [
       "Power/storage",
-      "Extra batteries + power banks for the long river day; double the cards; portable SSD + nightly backups. (No camping this time — you charge at the lodge each night.)"
+      "Extra batteries + power banks (no mains at the Angel Falls camp); double the cards; portable SSD + nightly backups at the lodges."
     ],
     [
       "Filters/support",
       "Polarizer (cays + lagoon), ND for waterfall motion, travel tripod, beanbag for boat work."
     ],
     [
-      "Los Roques 10 kg",
-      "Pack a minimal island kit; leave the rest at the Caracas hotel to stay under the strict limit."
+      "Los Roques ~10 kg",
+      "Pack a minimal island kit; leave the rest at the Caracas hotel — the charter is weight-limited (confirm the exact cap)."
     ],
     [
       "Body",
-      "Reef-safe sunscreen, strong DEET + head net (Delta), hat, quick-dry layers, headlamp, light hiking shoes for the muddy falls trail."
+      "Reef-safe sunscreen, strong DEET + head net (Delta + camp), hat, quick-dry layers, headlamp, light hiking shoes for the muddy falls trail."
     ],
     [
-      "Delta 15 kg limit",
-      "The Orinoco Delta flights/transfers cap luggage at 15 kg + 5 kg cabin per person (lodge rule) — pack a soft carry-on for that leg; leave the rest in Caracas."
+      "Delta ~15 kg",
+      "The Delta flights/transfers cap luggage at ~15 + 5 kg per person — pack a soft carry-on; leave the rest in Caracas."
     ]
   ],
   "caveats": [
     [
-      "Flight days are verified",
-      "Read straight from Conviasa's booking calendar (15 Jun 2026): Canaima Thu/Sun in June → Thursdays-only in July; Maturín Mon/Wed/Fri; Los Roques daily. All-Conviasa. Reconfirm within a week — schedules shift."
+      "Flight days",
+      "Canaima matches Conviasa's verified booking calendar (15 Jun 2026): Thu/Sun in June (Sun 28 ✓) → Thursdays-only in July (Thu 2 ✓). Reconfirm within a week — schedules shift."
+    ],
+    [
+      "Delta return routing",
+      "The Sat 27 Jun Delta→Caracas leg needs confirming — Conviasa's Maturín route is Mon/Wed/Fri, so a Saturday return likely goes via Puerto Ordaz or a charter. The lodge's updated quote should specify it."
+    ],
+    [
+      "Delta price pending",
+      "The pricing table reflects the prior quote (#5022567, 29 Jun–1 Jul). The lodge is issuing an updated quote for the new 25–27 Jun dates — treat the numbers as indicative until it lands."
+    ],
+    [
+      "Helicopter price",
+      "The Day 9 helicopter to Angel Falls is a premium add-on with price still TBD — confirm before counting on it; the boat day + hammock camp already cover the falls if it falls through."
     ],
     [
       "Buffer & departure",
-      "You return from Los Roques on Tue 7 Jul and fly out the afternoon of Wed 8 Jul (16:11), so there's a relaxed cushion and no pre-dawn airport run. Still reconfirm domestic flights within a week — Venezuelan schedules slip — and carry evacuation insurance."
-    ],
-    [
-      "No-camp trade",
-      "Skipping the Angel Falls camp costs only the dawn-from-base frame; overflight + day-boat + lagoon cover the rest. Both falls views still depend on cloud (the Day 5 overflight is the buffer)."
-    ],
-    [
-      "Delta rain",
-      "Late June is the Delta's wettest fortnight — shoot dawn/mornings, expect afternoon storms; the all-inclusive package re-orders around weather."
+      "Caracas hubs every leg, so there's a buffer night after each (27 Jun, 2–3 Jul, 7 Jul). You fly out the afternoon of 8 Jul (16:11) — relaxed, no pre-dawn run. Carry medical-evacuation insurance."
     ]
   ],
   "sources": [
@@ -995,8 +1016,8 @@ module.exports = {
   ],
   "placeholder": null,
   "deltaPricing": {
-    "title": "Orinoco Delta — quote & pricing",
-    "intro": "Quote #5022567 (received — not yet booked) · Plan 2 Plus · 2 adults · River Bungalow · 29 Jun–1 Jul 2026. Non-refundable; confirmed on full payment; date change free with 7+ days' notice (lodging only). Book via WhatsApp +58 412 855 6225.",
+    "title": "Orinoco Delta — pricing (updated quote pending)",
+    "intro": "The lodge is re-quoting Plan 2 Plus for the new dates (25–27 Jun). Below is the prior quote (#5022567, 29 Jun–1 Jul) as a reference — treat as indicative until the new one arrives. Book via WhatsApp +58 412 855 6225.",
     "rows": [
       [
         "Plan 2 lodge — 2 nights, River Bungalow, all meals, Morichal Largo full-day, kayaks/canoes",
@@ -1004,7 +1025,7 @@ module.exports = {
         "$730"
       ],
       [
-        "Air + transfers — Estelar CCS→Puerto Ordaz (out) + Conviasa Maturín→CCS (back) + private road transfers to/from Boca de Uracoa",
+        "Air + transfers — Estelar CCS→Puerto Ordaz + return routing (per updated quote) + private road transfers to/from Boca de Uracoa",
         "$240 pp",
         "$480"
       ],
@@ -1014,7 +1035,7 @@ module.exports = {
         "$160"
       ]
     ],
-    "total": "$1,370 for 2  ($685 per person)",
-    "note": "Not included: meals in transit, drinks beyond water/coffee/breakfast juice (bar extra), corkage $10–30/bottle, satellite Wi-Fi $10/device. Verified fares: Estelar CCS→PZO ran $60 (basic) to $110 (with a 23 kg bag) — so the bundled air+transfer price is fair."
+    "total": "$1,370 for 2 ($685 pp) — prior quote; awaiting updated",
+    "note": "Indicative only — dates and the return routing will change with the new quote. Not included: meals in transit, drinks beyond water/coffee/breakfast juice (bar extra), corkage $10–30/bottle, satellite Wi-Fi $10/device."
   }
 };
